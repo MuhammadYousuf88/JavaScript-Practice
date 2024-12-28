@@ -85,6 +85,34 @@ console.log(firstValue,lastValue,"This is Muhammad Yousuf")
 console.log(10 % 2)
 */
 
+/*
+
+var num = 3;
+console.log(++num)
+
+var num1 = 4 /(4*2)+2;
+console.log(num1)
+
+var num2= ((3 + 2) - 2) * 3 / 2
+console.log(num2)
+
+
+
+console.log(typeof false)
+*/
+
+var num = ("2" + "3") - "3";
+console.log(typeof num)
+
+
+var userInput = prompt("Enter Your Name","Your Name")
+console.log(userInput)
+
+
+
+
+
+
 
 
 
