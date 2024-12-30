@@ -100,18 +100,35 @@ console.log(num2)
 
 console.log(typeof false)
 */
-
+/*
 var num = ("2" + "3") - "3";
 console.log(typeof num)
 
 
 var userInput = prompt("Enter Your Name","Your Name")
 console.log(userInput)
+*/
 
 
 
+/*
+var userGender = prompt("Enter Your Gender");
 
+var userCity = prompt("Enter Your City");
 
+var userCnic = prompt("Do you have CNIC Nationality Card?","Yes");
+
+if(userGender.toLowerCase() == "Male".toLowerCase() && userCity.toLowerCase() == "Karachi".toLowerCase() && userCnic.toLowerCase() == "Yes".toLowerCase()){
+	console.log("Welcome Sir! You can Apply...")
+}
+else if(userGender.toLowerCase() === "Female".toLowerCase() && userCity.toLowerCase() === "Karachi".toLowerCase() && userCnic.toLowerCase() === "Yes".toLowerCase()){
+	console.log("Welcome Madam! You can Apply...")
+}
+else{
+	console.log("Sorry! You can't Apply...")
+}
+
+*/
 
 
 
