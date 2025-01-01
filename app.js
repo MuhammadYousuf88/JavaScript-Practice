@@ -140,6 +140,36 @@ else{
 }
 */
 
+/*
+alert("Welcome Sir/madam")
+
+alert("Error! Please enter correct password")
+
+alert("Welcome to our Website Enjoy Coding")
+*/
+
+/*
+var userName = "";
+var myName = "Muhammad Yousuf";
+
+var message = "Hello World!";
+alert(message)
+
+var userName = "Muhammad Yousuf";
+var userAge = "18 Years Old";
+var userProfession = "Graphic Designer and Web Developer";
+
+alert(userName)
+alert(userAge)
+alert(userProfession)
+
+var yourEmail = prompt("Enter Your Email","youremail@gmail.com")
+var email = "Your Email is " + yourEmail;
+alert(email)
+*/
+
+
+
 
 
 
