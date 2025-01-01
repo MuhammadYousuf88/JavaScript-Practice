@@ -130,6 +130,16 @@ else{
 
 */
 
+/*
+var userAge = prompt("Enter Your Age")
+if(userAge <= 18){
+	console.log("welcome")
+}
+else{
+	console.log("sorry")
+}
+*/
+
 
 
 
