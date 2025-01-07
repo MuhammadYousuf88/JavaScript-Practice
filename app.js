@@ -185,7 +185,31 @@ var userOrder = prompt("Enter how much T-Shirts do you wanna order!")
 console.log(userName+ " ordered " +userOrder + " T-Shirts on Viki Cloting Store")
 */
 
+/*
+var one = "first var"; 
+var two = "second var";
+var third = "third var";
 
+console.log(one,two,third)
+
+
+var firstStu = "Yousuf";
+var secondStu = "Viki";
+var thirdStu = "Roman";
+
+var first = "$name";
+var second = "_name";
+var third = "name";
+
+var middle = "Sensitive";
+var last = "keywords";
+
+document.write("<h1>Rules for naming JS Variable</h1>")
+document.write("Variable names only contain "+firstStu + ", "+secondStu+" and "+thirdStu +"<br />For example <b>$my_1stVariable</b><br /> ")
+document.write("Variables must begin with a "+first+", " +second+ " or " +third+ " For example $name, _name or name <br />")
+document.write("Variable names are case "+ middle+"<br />")
+document.write("Variable names should not be JS "+last)
+*/
 
 
 
