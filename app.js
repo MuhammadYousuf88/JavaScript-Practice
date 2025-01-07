@@ -168,6 +168,22 @@ var email = "Your Email is " + yourEmail;
 alert(email)
 */
 
+/*
+var age = 19;
+alert("I am " +age+ " years old.")
+
+var num = 1;
+alert("You have visited " +num +" times")
+
+var birthAge = 2006;
+console.log("My birth year is "+birthAge )
+console.log("Data type of my declared variable is number")
+
+var userName = prompt("Enter Your Name")
+var userOrder = prompt("Enter how much T-Shirts do you wanna order!")
+
+console.log(userName+ " ordered " +userOrder + " T-Shirts on Viki Cloting Store")
+*/
 
 
 
