@@ -211,5 +211,54 @@ document.write("Variable names are case "+ middle+"<br />")
 document.write("Variable names should not be JS "+last)
 */
 
+/*
+var firstNum = 2;
+var lastNum = 6;
+var finalNum = firstNum + lastNum;
+console.log("The Sum of "+firstNum+ " and " + lastNum + " is " + finalNum)
+
+
+var firstNum = 2;
+var lastNum = 6;
+var finalNum = firstNum - lastNum;
+console.log("The Substract of "+firstNum+ " and " + lastNum + " is " + finalNum)
+
+
+var firstNum = 2;
+var lastNum = 6;
+var finalNum = firstNum * lastNum;
+console.log("The Multiplication of "+firstNum+ " and " + lastNum + " is " + finalNum)
+
+var firstNum = 2;
+var lastNum = 6;
+var finalNum = firstNum / lastNum;
+console.log("The Division of "+firstNum+ " and " + lastNum + " is " + finalNum)
+
+var firstNum = 2;
+var lastNum = 6;
+var finalNum = firstNum % lastNum;
+console.log("The Modulas of "+firstNum+ " and " + lastNum + " is " + finalNum)
+*/
+
+/*
+var oneTick = 600;
+console.log("The cost of 5 Tickets is " +(oneTick*5)+ "pkr")
+
+
+var totalNum = 550;
+var obtNum = 381;
+var  per = ((obtNum * 100)/totalNum)
+console.log("The Total Marks is "+ totalNum)
+console.log("The Obtained Marks is "+ obtNum)
+console.log("Your Percentage is "+ per+"%")
+
+var doll = 10;
+var riyal = 25;
+var final = (doll * 104.80)+(riyal*28)
+console.log(final)	
+*/
+
+
+
 
 
