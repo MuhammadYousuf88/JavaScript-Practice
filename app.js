@@ -257,6 +257,33 @@ var riyal = 25;
 var final = (doll * 104.80)+(riyal*28)
 console.log(final)	
 */
+/*
+var arr = ["abc","def","ghi","jkl"];
+arr[5]="mno";
+console.log(arr.length)
+
+var arr = ["abc","def","ghi"];
+var returnArr = arr.pop()
+console.log(arr);
+console.log(returnArr)
+
+
+var arr = ["abc","def","ghi"];
+var returnArr = arr.push("eee","www")
+console.log(arr);
+console.log(returnArr)
+
+var arr = ["abc","def","ghi"];
+var returnArr = arr.shift()
+console.log(arr);
+console.log(returnArr)
+
+var arr = ["abc","def","ghi"];
+var returnArr = arr.unshift("www","eee")
+console.log(arr);
+console.log(returnArr)
+*/
+
 
 
 
