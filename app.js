@@ -284,8 +284,10 @@ console.log(arr);
 console.log(returnArr)
 */
 
-
-
+var arr = ["aaa","bbb","ccc","ddd"];
+var returnArr = arr.splice(0,2,"www")
+console.log(arr)
+console.log(returnArr)
 
 
 
