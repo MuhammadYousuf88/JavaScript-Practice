@@ -283,11 +283,59 @@ var returnArr = arr.unshift("www","eee")
 console.log(arr);
 console.log(returnArr)
 */
-
+/*
 var arr = ["aaa","bbb","ccc","ddd"];
 var returnArr = arr.splice(0,2,"www")
 console.log(arr)
 console.log(returnArr)
+*/
 
+/*
+var cleanCities = ["Karachi","Lahore","Rawalpindi","Quetta","Peshawar"];
+var cityCheck = prompt("Enter Your City here!");
+var flag = false;
+*/
+
+/*
+if(cityCheck === cleanCities[0]){
+	console.log("Yes! it's cleanest city")
+}
+else if(cityCheck === cleanCities[1]){
+	console.log("Yes! it's cleanest city")
+}
+else if(cityCheck === cleanCities[2]){
+	console.log("Yes! it's cleanest city")
+}
+else if(cityCheck === cleanCities[3]){
+	console.log("Yes! it's cleanest city")
+}
+else if(cityCheck === cleanCities[4]){
+	console.log("Yes! it's cleanest city")
+}
+else{
+	console.log("No! it's not cleanest city")
+}
+*/
+/*
+for (var i=0;i<=4;i++){
+	if(cityCheck === cleanCities[i]){
+		console.log("Yes! it's cleanest city")
+	}
+}
+*/
+
+/*
+for(var i=0;i<=4;i++){
+	if(cleanCities[i] === cityCheck){
+		flag = true;
+	}
+}
+if(flag){
+	console.log("Yes! it's cleanest city")
+}
+else{
+	console.log("No! it's not cleanest city")
+}
+*/
 
 
