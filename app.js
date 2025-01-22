@@ -338,4 +338,42 @@ else{
 }
 */
 
+/*
+var userNumber = +prompt("Enter your Obtained Number");
+var totalNumber = +prompt("Enter your Total Numbers");
+var percentage = Math.round(userNumber * 100 / totalNumber);
+console.log("Total Number is "+totalNumber)
+console.log("Your Obtained Marks is "+userNumber)
+console.log("Your Percentage is "+percentage+"%")
+*/
 
+/*
+var name = "Yousuf Khan";
+console.log(name.slice(0,6))
+*/
+/*
+var text = "my name is yousuf pathan";
+var userInput = prompt("Enter Your Word Here");
+var wordToCheck = prompt("Enter Your Word to Check");
+
+var flag = false;
+for(var i=0;i<text.length;i++){
+	if(text.slice(i,i+userInput.length)==wordToCheck){
+		flag = true;
+	}
+}
+if(flag){
+	console.log("Found")
+}
+else{
+	console.log("Not Found")
+}
+*/
+/*
+var user = "My Name is Yousuf";
+console.log(user.indexOf("Yousuf"))
+*/
+
+
+
+	
