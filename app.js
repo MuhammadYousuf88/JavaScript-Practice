@@ -374,6 +374,25 @@ var user = "My Name is Yousuf";
 console.log(user.indexOf("Yousuf"))
 */
 
+/*
+function ttt(e){
+	e.style.width="1000px";
+}
+function fff(e){
+	e.style.width="200px";
+}
+*/
+/*
+function foo() {
+		console.log("test---->", event.keyCode);
+}
 
+window.keyup = foo ;
+*/
+/*
+function abc(a,b,c){
+	return a-b+c;
+}
+console.log(abc(10,5,2))
+*/
 
-	
